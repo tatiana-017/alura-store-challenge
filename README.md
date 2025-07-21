@@ -58,7 +58,7 @@ Este análisis muestra cómo los datos pueden guiar decisiones estratégicas den
 
 ## 👩‍💻 Autor
 
-Proyecto desarrollado por **[Jeimy Tatiana Arias]**  
+Proyecto desarrollado por **Jeimy Tatiana Arias**  
 Formación en Ciencia de Datos – Alura Latam  
 GitHub: [tatiana-017](https://github.com/tatiana-017)
 
